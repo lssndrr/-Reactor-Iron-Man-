@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <link rel="stylesheet" type="text/css" href="style.css"></link>
+
+  <div class="react"></div>
+  <div class="primer react"></div>
+  <div class="segundo react"></div>
+  <div class="tercer react"></div>
+  <div class="cuarto react"></div>
+  <div class="quinto react"></div>
+  <div class="sexto react"></div>
+  <div class="medio react"></div>
+
+  <div class="react2"></div>
+  <div class="react2 a"></div>
+  <div class="react2 b"></div>
+  <div class="react2 c"></div>
+  <div class="react2 d"></div>
+  <div class="react2 e"></div>
+  <div class="react2 f"></div>
+  <div class="react2 g"></div>
+  <div class="react2 h"></div>
+  <div class="react2 i"></div>
+  <div class="react2 j"></div>
+  <div class="react2 k"></div>
